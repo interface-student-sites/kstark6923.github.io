@@ -1,8 +1,8 @@
 $(document).ready(function(){
-    $('.button').click(function(){
-          $('img').fadeOut('slow');  
+    $('.button').fadeOut(1000);  
     });
-    $('#button-two').click(function(){
-        $('img').fadeIn('slow');
+    $('#button-two').fadeIn(1000);
     });
 });
+
+

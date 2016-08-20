@@ -28,6 +28,10 @@ button {
   color: orange;
 }
 
+button:hover {
+  background: yellow;
+}
+
 header {
   background-image: url("https://static.pexels.com/photos/1029/landscape-mountains-nature-clouds-large.jpg");
   background-size: cover;

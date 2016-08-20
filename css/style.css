@@ -67,6 +67,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: yellow;
+  font-size: 30px;
+}
+
 #silly {
   color: yellow;
   font-family: cursive;

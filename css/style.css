@@ -49,6 +49,12 @@ a:hover {
   color: yellow;
 }
 
+img {
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+}
+
 #silly {
   color: yellow;
   font-family: cursive;

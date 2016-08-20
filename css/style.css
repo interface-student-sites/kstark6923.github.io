@@ -48,3 +48,8 @@ img {
   height: 200px;
   width: 200px;
 }
+
+#silly {
+  color: yellow;
+  font-family: cursive;
+}

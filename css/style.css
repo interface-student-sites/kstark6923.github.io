@@ -7,8 +7,7 @@
 .notrounded img {
   height: 200px;
   width: 200px;
-  border-top-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-radius: 100px;
 }
 
 header {

@@ -20,6 +20,14 @@ button {
   color: purple;
 }
 
+#button-two {
+  height: 30px;
+  width: 60px
+  border-radius: 50px
+  background: blue;
+  color: orange;
+}
+
 header {
   background-image: url("https://static.pexels.com/photos/1029/landscape-mountains-nature-clouds-large.jpg");
   background-size: cover;

@@ -13,7 +13,7 @@
   float: right;
 }
 
-header {
+header, footer {
   background: blue;
   color: white;
   text-align: center;
@@ -36,11 +36,7 @@ section {
 }
 
 footer {
-  background: blue;
-  color: white;
   clear: both;
-  text-align: center;
-  padding: 5px;
 }
 
 a {
@@ -50,6 +46,8 @@ a {
 
 a:hover {
   color: yellow;
+  background: pink;
+  font-size: 30px;
 }
 
 #silly {

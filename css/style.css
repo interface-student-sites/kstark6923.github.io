@@ -5,6 +5,11 @@
   float: left;
 }
 
+#notrounded {
+  border-radius: 15px 50px
+  eight: 200px
+  width: 200;
+}
 .notrounded img{
   height: 200px;
   width: 200px;

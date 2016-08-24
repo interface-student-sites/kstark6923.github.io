@@ -9,9 +9,6 @@ $(document).ready(function(){
         $('header').css("background", "red");
     });
     
-    $('#fancy-text').click(function(){
-       $(this).css("font-style":"italic"); 
-    });
 }); 
 
 

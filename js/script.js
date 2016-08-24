@@ -9,7 +9,7 @@ $(document).ready(function(){
         $('header').css("background", "red");
     });
     
-    $('fancy-text').click(function(){
+    $('#fancy-text').click(function(){
        $('fancy-text').css("font-style", "italic"); 
     });
 }); 

@@ -4,6 +4,10 @@ $(document).ready(function(){
     });
     $('h1').fadeIn(1000);
     $('p').fadeIn(2000);
+    
+    $('header').click(function(){
+        $('header').css("background-color", "red");
+    });
 });
 
 

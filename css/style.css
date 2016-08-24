@@ -2,21 +2,6 @@ img {
   display: none;
 }
 
-.rounded img{
-  height: 200px;
-  width: 200px;
-  border-radius: 100px;
-  float: left;
-  display: none;
-}
-
-#notrounded {
-  border-radius: 15px 50px;
-  height: 200px;
-  width: 200px;
-  border-top-right-radius: 10px;
-}
-
 button {
   height: 30px;
   width: 60px

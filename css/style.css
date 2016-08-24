@@ -3,6 +3,7 @@
   width: 200px;
   border-radius: 100px;
   float: left;
+  display: none;
 }
 
 #notrounded {
@@ -38,6 +39,10 @@ header {
   color: white;
   text-align: center;
   padding: 10px;
+}
+
+h1 {
+  display: none;
 }
 
 nav {

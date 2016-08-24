@@ -12,7 +12,7 @@ $(document).ready(function(){
     $('fancy-text').click(function(){
        $(this).css("font-style", "tall"); 
     });
-});
+}); 
 
 
 

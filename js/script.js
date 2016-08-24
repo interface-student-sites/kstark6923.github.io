@@ -10,7 +10,7 @@ $(document).ready(function(){
     });
     
     $('#fancy-text').click(function(){
-       $('fancy-text').css("font-style", "italic"); 
+       $('#fancy-text').css("font-style", "italic"); 
     });
 }); 
 
